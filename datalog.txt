@@ -1,0 +1,417 @@
+Run 0
+Generation: 1, Final: 114, Best: 90
+Generation: 2, Final: 114, Best: 110
+Generation: 3, Final: 114, Best: 110
+Generation: 4, Final: 114, Best: 110
+Generation: 5, Final: 114, Best: 110
+Generation: 6, Final: 114, Best: 110
+Generation: 7, Final: 114, Best: 112
+Generation: 8, Final: 114, Best: 112
+Generation: 9, Final: 114, Best: 114
+
+
+Run 1
+Generation: 1, Final: 114, Best: 102
+Generation: 2, Final: 114, Best: 102
+Generation: 3, Final: 114, Best: 102
+Generation: 4, Final: 114, Best: 104
+Generation: 5, Final: 114, Best: 113
+Generation: 6, Final: 114, Best: 113
+Generation: 7, Final: 114, Best: 113
+Generation: 8, Final: 114, Best: 113
+Generation: 9, Final: 114, Best: 113
+Generation: 10, Final: 114, Best: 113
+Generation: 11, Final: 114, Best: 114
+
+
+Run 2
+Generation: 1, Final: 114, Best: 97
+Generation: 2, Final: 114, Best: 108
+Generation: 3, Final: 114, Best: 108
+Generation: 4, Final: 114, Best: 113
+Generation: 5, Final: 114, Best: 113
+Generation: 6, Final: 114, Best: 113
+Generation: 7, Final: 114, Best: 113
+Generation: 8, Final: 114, Best: 114
+
+
+Run 3
+Generation: 1, Final: 114, Best: 100
+Generation: 2, Final: 114, Best: 112
+Generation: 3, Final: 114, Best: 112
+Generation: 4, Final: 114, Best: 112
+Generation: 5, Final: 114, Best: 112
+Generation: 6, Final: 114, Best: 112
+Generation: 7, Final: 114, Best: 112
+Generation: 8, Final: 114, Best: 112
+Generation: 9, Final: 114, Best: 112
+Generation: 10, Final: 114, Best: 112
+Generation: 11, Final: 114, Best: 112
+Generation: 12, Final: 114, Best: 112
+Generation: 13, Final: 114, Best: 112
+Generation: 14, Final: 114, Best: 112
+Generation: 15, Final: 114, Best: 112
+Generation: 16, Final: 114, Best: 112
+Generation: 17, Final: 114, Best: 112
+Generation: 18, Final: 114, Best: 112
+Generation: 19, Final: 114, Best: 112
+Generation: 20, Final: 114, Best: 112
+Generation: 21, Final: 114, Best: 112
+Generation: 22, Final: 114, Best: 114
+
+
+Run 4
+Generation: 1, Final: 114, Best: 93
+Generation: 2, Final: 114, Best: 108
+Generation: 3, Final: 114, Best: 108
+Generation: 4, Final: 114, Best: 114
+
+
+Run 5
+Generation: 1, Final: 114, Best: 103
+Generation: 2, Final: 114, Best: 103
+Generation: 3, Final: 114, Best: 112
+Generation: 4, Final: 114, Best: 112
+Generation: 5, Final: 114, Best: 112
+Generation: 6, Final: 114, Best: 112
+Generation: 7, Final: 114, Best: 112
+Generation: 8, Final: 114, Best: 112
+Generation: 9, Final: 114, Best: 112
+Generation: 10, Final: 114, Best: 112
+Generation: 11, Final: 114, Best: 112
+Generation: 12, Final: 114, Best: 112
+Generation: 13, Final: 114, Best: 112
+Generation: 14, Final: 114, Best: 113
+Generation: 15, Final: 114, Best: 113
+Generation: 16, Final: 114, Best: 113
+Generation: 17, Final: 114, Best: 113
+Generation: 18, Final: 114, Best: 113
+Generation: 19, Final: 114, Best: 113
+Generation: 20, Final: 114, Best: 113
+Generation: 21, Final: 114, Best: 113
+Generation: 22, Final: 114, Best: 113
+Generation: 23, Final: 114, Best: 113
+Generation: 24, Final: 114, Best: 113
+Generation: 25, Final: 114, Best: 113
+Generation: 26, Final: 114, Best: 113
+Generation: 27, Final: 114, Best: 113
+Generation: 28, Final: 114, Best: 113
+Generation: 29, Final: 114, Best: 113
+Generation: 30, Final: 114, Best: 113
+Generation: 31, Final: 114, Best: 113
+Generation: 32, Final: 114, Best: 113
+Generation: 33, Final: 114, Best: 113
+Generation: 34, Final: 114, Best: 113
+Generation: 35, Final: 114, Best: 114
+
+
+Run 6
+Generation: 1, Final: 114, Best: 89
+Generation: 2, Final: 114, Best: 106
+Generation: 3, Final: 114, Best: 106
+Generation: 4, Final: 114, Best: 107
+Generation: 5, Final: 114, Best: 107
+Generation: 6, Final: 114, Best: 114
+
+
+Run 7
+Generation: 1, Final: 114, Best: 94
+Generation: 2, Final: 114, Best: 109
+Generation: 3, Final: 114, Best: 110
+Generation: 4, Final: 114, Best: 114
+
+
+Run 8
+Generation: 1, Final: 114, Best: 95
+Generation: 2, Final: 114, Best: 110
+Generation: 3, Final: 114, Best: 110
+Generation: 4, Final: 114, Best: 110
+Generation: 5, Final: 114, Best: 112
+Generation: 6, Final: 114, Best: 114
+
+
+Run 9
+Generation: 1, Final: 114, Best: 78
+Generation: 2, Final: 114, Best: 108
+Generation: 3, Final: 114, Best: 108
+Generation: 4, Final: 114, Best: 108
+Generation: 5, Final: 114, Best: 108
+Generation: 6, Final: 114, Best: 112
+Generation: 7, Final: 114, Best: 112
+Generation: 8, Final: 114, Best: 112
+Generation: 9, Final: 114, Best: 112
+Generation: 10, Final: 114, Best: 112
+Generation: 11, Final: 114, Best: 112
+Generation: 12, Final: 114, Best: 112
+Generation: 13, Final: 114, Best: 112
+Generation: 14, Final: 114, Best: 112
+Generation: 15, Final: 114, Best: 112
+Generation: 16, Final: 114, Best: 112
+Generation: 17, Final: 114, Best: 112
+Generation: 18, Final: 114, Best: 112
+Generation: 19, Final: 114, Best: 113
+Generation: 20, Final: 114, Best: 113
+Generation: 21, Final: 114, Best: 113
+Generation: 22, Final: 114, Best: 113
+Generation: 23, Final: 114, Best: 113
+Generation: 24, Final: 114, Best: 113
+Generation: 25, Final: 114, Best: 113
+Generation: 26, Final: 114, Best: 114
+
+
+Run 10
+Generation: 1, Final: 114, Best: 96
+Generation: 2, Final: 114, Best: 111
+Generation: 3, Final: 114, Best: 111
+Generation: 4, Final: 114, Best: 111
+Generation: 5, Final: 114, Best: 112
+Generation: 6, Final: 114, Best: 112
+Generation: 7, Final: 114, Best: 112
+Generation: 8, Final: 114, Best: 112
+Generation: 9, Final: 114, Best: 112
+Generation: 10, Final: 114, Best: 112
+Generation: 11, Final: 114, Best: 112
+Generation: 12, Final: 114, Best: 112
+Generation: 13, Final: 114, Best: 112
+Generation: 14, Final: 114, Best: 112
+Generation: 15, Final: 114, Best: 112
+Generation: 16, Final: 114, Best: 112
+Generation: 17, Final: 114, Best: 112
+Generation: 18, Final: 114, Best: 114
+
+
+Run 11
+Generation: 1, Final: 114, Best: 89
+Generation: 2, Final: 114, Best: 111
+Generation: 3, Final: 114, Best: 111
+Generation: 4, Final: 114, Best: 111
+Generation: 5, Final: 114, Best: 111
+Generation: 6, Final: 114, Best: 111
+Generation: 7, Final: 114, Best: 111
+Generation: 8, Final: 114, Best: 111
+Generation: 9, Final: 114, Best: 112
+Generation: 10, Final: 114, Best: 112
+Generation: 11, Final: 114, Best: 112
+Generation: 12, Final: 114, Best: 112
+Generation: 13, Final: 114, Best: 112
+Generation: 14, Final: 114, Best: 112
+Generation: 15, Final: 114, Best: 112
+Generation: 16, Final: 114, Best: 112
+Generation: 17, Final: 114, Best: 112
+Generation: 18, Final: 114, Best: 112
+Generation: 19, Final: 114, Best: 112
+Generation: 20, Final: 114, Best: 112
+Generation: 21, Final: 114, Best: 112
+Generation: 22, Final: 114, Best: 112
+Generation: 23, Final: 114, Best: 112
+Generation: 24, Final: 114, Best: 112
+Generation: 25, Final: 114, Best: 112
+Generation: 26, Final: 114, Best: 112
+Generation: 27, Final: 114, Best: 112
+Generation: 28, Final: 114, Best: 112
+Generation: 29, Final: 114, Best: 112
+Generation: 30, Final: 114, Best: 114
+
+
+Run 12
+Generation: 1, Final: 114, Best: 98
+Generation: 2, Final: 114, Best: 112
+Generation: 3, Final: 114, Best: 112
+Generation: 4, Final: 114, Best: 112
+Generation: 5, Final: 114, Best: 113
+Generation: 6, Final: 114, Best: 114
+
+
+Run 13
+Generation: 1, Final: 114, Best: 109
+Generation: 2, Final: 114, Best: 109
+Generation: 3, Final: 114, Best: 109
+Generation: 4, Final: 114, Best: 111
+Generation: 5, Final: 114, Best: 111
+Generation: 6, Final: 114, Best: 111
+Generation: 7, Final: 114, Best: 112
+Generation: 8, Final: 114, Best: 112
+Generation: 9, Final: 114, Best: 112
+Generation: 10, Final: 114, Best: 114
+
+
+Run 14
+Generation: 1, Final: 114, Best: 76
+Generation: 2, Final: 114, Best: 108
+Generation: 3, Final: 114, Best: 108
+Generation: 4, Final: 114, Best: 108
+Generation: 5, Final: 114, Best: 114
+
+
+Run 15
+Generation: 1, Final: 114, Best: 103
+Generation: 2, Final: 114, Best: 112
+Generation: 3, Final: 114, Best: 112
+Generation: 4, Final: 114, Best: 112
+Generation: 5, Final: 114, Best: 112
+Generation: 6, Final: 114, Best: 112
+Generation: 7, Final: 114, Best: 112
+Generation: 8, Final: 114, Best: 112
+Generation: 9, Final: 114, Best: 112
+Generation: 10, Final: 114, Best: 112
+Generation: 11, Final: 114, Best: 112
+Generation: 12, Final: 114, Best: 113
+Generation: 13, Final: 114, Best: 113
+Generation: 14, Final: 114, Best: 113
+Generation: 15, Final: 114, Best: 113
+Generation: 16, Final: 114, Best: 113
+Generation: 17, Final: 114, Best: 113
+Generation: 18, Final: 114, Best: 113
+Generation: 19, Final: 114, Best: 114
+
+
+Run 16
+Generation: 1, Final: 114, Best: 104
+Generation: 2, Final: 114, Best: 112
+Generation: 3, Final: 114, Best: 112
+Generation: 4, Final: 114, Best: 112
+Generation: 5, Final: 114, Best: 112
+Generation: 6, Final: 114, Best: 112
+Generation: 7, Final: 114, Best: 112
+Generation: 8, Final: 114, Best: 112
+Generation: 9, Final: 114, Best: 112
+Generation: 10, Final: 114, Best: 112
+Generation: 11, Final: 114, Best: 112
+Generation: 12, Final: 114, Best: 112
+Generation: 13, Final: 114, Best: 112
+Generation: 14, Final: 114, Best: 112
+Generation: 15, Final: 114, Best: 112
+Generation: 16, Final: 114, Best: 112
+Generation: 17, Final: 114, Best: 112
+Generation: 18, Final: 114, Best: 112
+Generation: 19, Final: 114, Best: 112
+Generation: 20, Final: 114, Best: 112
+Generation: 21, Final: 114, Best: 112
+Generation: 22, Final: 114, Best: 113
+Generation: 23, Final: 114, Best: 113
+Generation: 24, Final: 114, Best: 113
+Generation: 25, Final: 114, Best: 113
+Generation: 26, Final: 114, Best: 113
+Generation: 27, Final: 114, Best: 113
+Generation: 28, Final: 114, Best: 113
+Generation: 29, Final: 114, Best: 113
+Generation: 30, Final: 114, Best: 113
+Generation: 31, Final: 114, Best: 113
+Generation: 32, Final: 114, Best: 113
+Generation: 33, Final: 114, Best: 113
+Generation: 34, Final: 114, Best: 113
+Generation: 35, Final: 114, Best: 113
+Generation: 36, Final: 114, Best: 113
+Generation: 37, Final: 114, Best: 113
+Generation: 38, Final: 114, Best: 113
+Generation: 39, Final: 114, Best: 113
+Generation: 40, Final: 114, Best: 114
+
+
+Run 17
+Generation: 1, Final: 114, Best: 91
+Generation: 2, Final: 114, Best: 114
+
+
+Run 18
+Generation: 1, Final: 114, Best: 86
+Generation: 2, Final: 114, Best: 111
+Generation: 3, Final: 114, Best: 111
+Generation: 4, Final: 114, Best: 111
+Generation: 5, Final: 114, Best: 111
+Generation: 6, Final: 114, Best: 114
+
+
+Run 19
+Generation: 1, Final: 114, Best: 77
+Generation: 2, Final: 114, Best: 107
+Generation: 3, Final: 114, Best: 112
+Generation: 4, Final: 114, Best: 112
+Generation: 5, Final: 114, Best: 112
+Generation: 6, Final: 114, Best: 112
+Generation: 7, Final: 114, Best: 112
+Generation: 8, Final: 114, Best: 112
+Generation: 9, Final: 114, Best: 112
+Generation: 10, Final: 114, Best: 112
+Generation: 11, Final: 114, Best: 112
+Generation: 12, Final: 114, Best: 112
+Generation: 13, Final: 114, Best: 112
+Generation: 14, Final: 114, Best: 112
+Generation: 15, Final: 114, Best: 112
+Generation: 16, Final: 114, Best: 112
+Generation: 17, Final: 114, Best: 112
+Generation: 18, Final: 114, Best: 112
+Generation: 19, Final: 114, Best: 112
+Generation: 20, Final: 114, Best: 112
+Generation: 21, Final: 114, Best: 112
+Generation: 22, Final: 114, Best: 112
+Generation: 23, Final: 114, Best: 112
+Generation: 24, Final: 114, Best: 112
+Generation: 25, Final: 114, Best: 112
+Generation: 26, Final: 114, Best: 112
+Generation: 27, Final: 114, Best: 112
+Generation: 28, Final: 114, Best: 112
+Generation: 29, Final: 114, Best: 112
+Generation: 30, Final: 114, Best: 112
+Generation: 31, Final: 114, Best: 112
+Generation: 32, Final: 114, Best: 112
+Generation: 33, Final: 114, Best: 112
+Generation: 34, Final: 114, Best: 112
+Generation: 35, Final: 114, Best: 112
+Generation: 36, Final: 114, Best: 112
+Generation: 37, Final: 114, Best: 112
+Generation: 38, Final: 114, Best: 112
+Generation: 39, Final: 114, Best: 112
+Generation: 40, Final: 114, Best: 112
+Generation: 41, Final: 114, Best: 112
+Generation: 42, Final: 114, Best: 112
+Generation: 43, Final: 114, Best: 112
+Generation: 44, Final: 114, Best: 112
+Generation: 45, Final: 114, Best: 112
+Generation: 46, Final: 114, Best: 112
+Generation: 47, Final: 114, Best: 112
+Generation: 48, Final: 114, Best: 112
+Generation: 49, Final: 114, Best: 112
+Generation: 50, Final: 114, Best: 112
+Generation: 51, Final: 114, Best: 112
+Generation: 52, Final: 114, Best: 112
+Generation: 53, Final: 114, Best: 112
+Generation: 54, Final: 114, Best: 112
+Generation: 55, Final: 114, Best: 113
+Generation: 56, Final: 114, Best: 113
+Generation: 57, Final: 114, Best: 113
+Generation: 58, Final: 114, Best: 113
+Generation: 59, Final: 114, Best: 113
+Generation: 60, Final: 114, Best: 113
+Generation: 61, Final: 114, Best: 113
+Generation: 62, Final: 114, Best: 113
+Generation: 63, Final: 114, Best: 113
+Generation: 64, Final: 114, Best: 113
+Generation: 65, Final: 114, Best: 113
+Generation: 66, Final: 114, Best: 113
+Generation: 67, Final: 114, Best: 113
+Generation: 68, Final: 114, Best: 113
+Generation: 69, Final: 114, Best: 113
+Generation: 70, Final: 114, Best: 113
+Generation: 71, Final: 114, Best: 113
+Generation: 72, Final: 114, Best: 113
+Generation: 73, Final: 114, Best: 113
+Generation: 74, Final: 114, Best: 113
+Generation: 75, Final: 114, Best: 113
+Generation: 76, Final: 114, Best: 113
+Generation: 77, Final: 114, Best: 113
+Generation: 78, Final: 114, Best: 113
+Generation: 79, Final: 114, Best: 113
+Generation: 80, Final: 114, Best: 113
+Generation: 81, Final: 114, Best: 113
+Generation: 82, Final: 114, Best: 113
+Generation: 83, Final: 114, Best: 113
+Generation: 84, Final: 114, Best: 113
+Generation: 85, Final: 114, Best: 113
+Generation: 86, Final: 114, Best: 113
+Generation: 87, Final: 114, Best: 113
+Generation: 88, Final: 114, Best: 113
+Generation: 89, Final: 114, Best: 113
+Generation: 90, Final: 114, Best: 114
+
+
